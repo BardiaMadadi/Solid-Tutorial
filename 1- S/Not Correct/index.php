@@ -1,6 +1,6 @@
 <?php
 /*
-    Note : this should not be correct
+    Note : this should not be Correct
 */
 
 class User {
@@ -22,7 +22,7 @@ class User {
         echo("connecting to DB \n");
     }
 }
-// this is not correct cause User class is doing user stuff + Data base sruff   
+// this is not Correct cause User class is doing user stuff + Data base sruff
 
 $user = new User;
 
